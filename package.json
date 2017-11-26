@@ -1,5 +1,5 @@
 {
-  "name": "@crushcoin/wallet",
+  "name": "wallet-module",
   "version": "0.0.1",
   "description": "Wrapper for Crushcoin JSON RPC wallet daemon.",
   "main": "./lib/wallet.js",
